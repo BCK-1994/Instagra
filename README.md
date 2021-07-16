@@ -2,5 +2,7 @@
 
 Olá! Bem vindo!
 
+Aqui estão os arquivos html e css, e as imagens, usadas no projeto.
+
 
 
